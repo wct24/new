@@ -11,9 +11,3 @@ git init
 cd C:\Users\touze\Myprojects\new
 ./make.sh $param1
 
-git remote add origin https://github.com/wct24/$param1.git
-git add .
-git commit -m 'initial commit'
-git push -u origin master
-
-code .
